@@ -12,4 +12,5 @@
     <string name="next_button_description">Next question</string>
     <string name="correct_toast">Poprawna odpowiedź!</string>
     <string name="incorrect_toast">Niepoprawna odpowiedź!</string>
+    <string name="score">Odpowiedziałeś na wszystkie pytania! Liczba poprawnych odpowiedzi to %1$d %2$s</string>
 </resources>
